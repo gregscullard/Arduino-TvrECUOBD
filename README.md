@@ -11,3 +11,4 @@ The hardware this was build and tested on is as follows:
 -PLX Kiwi3 CanBus to Bluetooth OBD
 -Homemade serial shield for debugging (https://arduinodiy.files.wordpress.com/2012/03/max232.jpg)
 
+Note: OBD.xlsm is a summary of request/responses from the MBE ECU, the translation of the HEX responses to actual values, as well as translation to OBD values where appropriate. There is also some other useful reference information on the MBE ECU responses for faults, etc...
